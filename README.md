@@ -7,5 +7,5 @@
 ### 目录
 
 * [Arduino概述](https://github.com/knowncold/Re0-OSHardware/tree/master/lecture1)
-* Arduino基本开发环境使用
-* Arduino基本输入输出
+* [Arduino基本开发环境使用](https://github.com/knowncold/Re0-OSHardware/tree/master/lecture2)
+* [Arduino基本输入输出](https://github.com/knowncold/Re0-OSHardware/tree/master/lecture3)
